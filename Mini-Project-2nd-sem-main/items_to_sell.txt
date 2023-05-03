@@ -1,0 +1,5 @@
+---- ITEMS ----
+1 USB_Mouse 1500
+2 Keyboard 2000
+3 Iphone_X 50000
+4 OnePlus_9T 68000
